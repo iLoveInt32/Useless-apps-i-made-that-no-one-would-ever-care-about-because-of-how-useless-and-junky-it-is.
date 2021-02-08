@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Jacob\area 51\c#\forms\useless_guessing_game\useless_guessing_game\bin\Debug\useless_guessing_game.exe.config
+C:\Users\HP\Desktop\Jacob\area 51\c#\forms\useless_guessing_game\useless_guessing_game\bin\Debug\useless_guessing_game.exe
+C:\Users\HP\Desktop\Jacob\area 51\c#\forms\useless_guessing_game\useless_guessing_game\bin\Debug\useless_guessing_game.pdb
+C:\Users\HP\Desktop\Jacob\area 51\c#\forms\useless_guessing_game\useless_guessing_game\obj\Debug\useless_guessing_game.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Jacob\area 51\c#\forms\useless_guessing_game\useless_guessing_game\obj\Debug\useless_guessing_game.Form1.resources
+C:\Users\HP\Desktop\Jacob\area 51\c#\forms\useless_guessing_game\useless_guessing_game\obj\Debug\useless_guessing_game.Properties.Resources.resources
+C:\Users\HP\Desktop\Jacob\area 51\c#\forms\useless_guessing_game\useless_guessing_game\obj\Debug\useless_guessing_game.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Jacob\area 51\c#\forms\useless_guessing_game\useless_guessing_game\obj\Debug\useless_guessing_game.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Jacob\area 51\c#\forms\useless_guessing_game\useless_guessing_game\obj\Debug\useless_guessing_game.exe
+C:\Users\HP\Desktop\Jacob\area 51\c#\forms\useless_guessing_game\useless_guessing_game\obj\Debug\useless_guessing_game.pdb
+C:\Users\HP\Desktop\Jacob\area 51\c#\forms\useless_guessing_game\useless_guessing_game\obj\Debug\useless_guessing_game.Change.resources
